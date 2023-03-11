@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3944568 */
+  src: url('http://at.alicdn.com/t/c/font_3944568_uj77k3t8a6.woff2?t=1678517302099') format('woff2'),
+       url('http://at.alicdn.com/t/c/font_3944568_uj77k3t8a6.woff?t=1678517302099') format('woff'),
+       url('http://at.alicdn.com/t/c/font_3944568_uj77k3t8a6.ttf?t=1678517302099') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wendangdocument78:before {
+  content: "\e646";
+}
+
+.icon-blogger:before {
+  content: "\e63c";
+}
+
+.icon-liuyan:before {
+  content: "\e744";
+}
+
+.icon-daohang1:before {
+  content: "\e651";
+}
+
+.icon-zixun:before {
+  content: "\e637";
+}
+
+.icon-xuexi1:before {
+  content: "\e63b";
+}
+
+.icon-xuexi:before {
+  content: "\e607";
+}
+
+.icon-daohang2:before {
+  content: "\eaf2";
+}
+
+.icon-designer:before {
+  content: "\e6e1";
+}
+
+.icon-yunying:before {
+  content: "\e608";
+}
+
+.icon-github:before {
+  content: "\e657";
+}
+
+.icon-tool:before {
+  content: "\e97e";
+}
+
+.icon-shequ:before {
+  content: "\e629";
+}
+
+.icon-MC:before {
+  content: "\e887";
+}
